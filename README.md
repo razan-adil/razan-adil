@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Razan Adil 👋
 
-<!--
-**razan-adil/razan-adil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at the University of Jeddah with interests in data analytics, machine learning, AI, and automation.
 
-Here are some ideas to get you started:
+At Wadi Jeddah Innovation Hub (WJIH), I independently developed a centralized data management and workflow automation solution. I also collaborated with the AI team on the Wajeeh AI Assistant, working on AI agents and workflow automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm active in GDG on Campus and the Artificial Intelligence Club, where I contribute to projects and technical content.
+
+This GitHub brings together my projects, practical work, and learning.
+
+**Skills:** Python · Data Analysis · Machine Learning · Data Management · Data Cleaning · AI Agents · n8n
+
+[LinkedIn](https://www.linkedin.com/in/razan-adil-79639b298) · [X](https://x.com/razanalghamdiii)
