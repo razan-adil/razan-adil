@@ -28,6 +28,7 @@ September 2026 – Present
 June 2026 – August 2026
 
 During my internship:
+
 - Independently developed and completed a centralized data management and workflow automation solution.
 - Collaborated with the AI team on the development of the Wajeeh AI Assistant.
 
@@ -37,7 +38,7 @@ During my internship:
 
 | Project | Description & Contribution | Focus |
 | --- | --- | --- |
-| **DClean — Data Cleaning & Quality System** | Contributed to a reusable Python-based data cleaning pipeline. Defined data structures and schemas, validated records, handled invalid data, and implemented record quarantine with clear rejection reasons. | Python, Data Quality, Validation, Error Handling |
+| **[DClean — Data Cleaning & Quality System](https://github.com/razan-adil/DClean)** | Contributed to a reusable Python-based data cleaning pipeline. Defined data structures and schemas, validated records, handled invalid data, and implemented record quarantine with clear rejection reasons. | Python, Data Quality, Validation, Error Handling |
 | **WJIH Master Database** | Independently developed a centralized solution for data management and workflow automation. | Data Management, Data Cleaning, Automation |
 | **Wajeeh AI Assistant** | Collaborated with the WJIH AI team on assistant development and workflow automation. | AI Agents, n8n |
 | **Road Accident Severity Prediction** | Developed a machine learning project to predict road traffic accident severity using multiple classification models. | Python, Machine Learning, Classification |
@@ -47,23 +48,21 @@ During my internship:
 ## Community & Leadership
 
 ### Oracle
+
 **Oracle Student Ambassador**  
 November 2025 – Present
 
 Represent Oracle within the university community.
 
-### Artificial Intelligence Club
-**Projects Member**  
-September 2026 – Present
+### GDG on Campus — University of Jeddah
 
-**Content Creation Member**
+**AI Developers Committee Member**
 
-Contribute to the club's projects and technical content.
+Contribute to AI projects within the university’s developer community.
 
-### GDG on Campus
 **Content Writing Committee Member**
 
-Contribute to content writing for the university's developer community.
+Contribute to writing technical content for the community.
 
 ---
 
