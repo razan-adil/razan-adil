@@ -1,6 +1,6 @@
 # Razan Adil
 
-Data Science student at the University of Jeddah, enrolled in 2023 and expected to graduate in 2027. Currently working part-time in Data Science at Wadi Jeddah Innovation Hub (WJIH), with experience in data management, workflow automation, and AI assistant development.
+Data Science student at the University of Jeddah, enrolled in 2023 and expected to graduate in 2027. Currently working part-time in Data Science at Wadi Jeddah Innovation Hub (WJIH), with experience in data management, data quality, workflow automation, and AI assistant development.
 
 [GitHub](https://github.com/razan-adil) | [LinkedIn](https://www.linkedin.com/in/razan-adil-79639b298) | [X](https://x.com/razanalghamdiii) | Jeddah, Saudi Arabia
 
@@ -10,6 +10,7 @@ Data Science student at the University of Jeddah, enrolled in 2023 and expected 
 
 - **Programming:** Python
 - **Data & Analytics:** Data Analysis, Data Management, Data Cleaning, Big Data Analytics
+- **Data Quality:** Schema Definition, Record Validation, Error Handling, Invalid Record Quarantine
 - **Machine Learning:** Predictive Modeling, Classification
 - **AI & Automation:** Artificial Intelligence, AI Agents, n8n, Workflow Automation
 - **Productivity Tools:** Google Workspace, Google Sheets
@@ -34,11 +35,12 @@ During my internship:
 
 ## Selected Projects
 
-| Project | Description | Focus |
+| Project | Description & Contribution | Focus |
 | --- | --- | --- |
+| **DClean — Data Cleaning & Quality System** | Contributed to a reusable Python-based data cleaning pipeline. Defined data structures and schemas, validated records, handled invalid data, and implemented record quarantine with clear rejection reasons. | Python, Data Quality, Validation, Error Handling |
 | **WJIH Master Database** | Independently developed a centralized solution for data management and workflow automation. | Data Management, Data Cleaning, Automation |
 | **Wajeeh AI Assistant** | Collaborated with the WJIH AI team on assistant development and workflow automation. | AI Agents, n8n |
-| **Road Accident Severity Prediction** | Built a machine learning project to predict road traffic accident severity using multiple classification models. | Python, Machine Learning, Classification |
+| **Road Accident Severity Prediction** | Developed a machine learning project to predict road traffic accident severity using multiple classification models. | Python, Machine Learning, Classification |
 
 ---
 
