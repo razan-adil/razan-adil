@@ -1,13 +1,43 @@
-# Hi, I'm Razan Adil 👋
+# Razan Adil
 
-I'm a Data Science student at the University of Jeddah with interests in data analytics, machine learning, AI, and automation.
+Data Science Student at the University of Jeddah, with interests in data analytics, machine learning, artificial intelligence, and workflow automation. Project experience at Wadi Jeddah Innovation Hub (WJIH) includes centralized data management and AI assistant development.
 
-At Wadi Jeddah Innovation Hub (WJIH), I independently developed a centralized data management and workflow automation solution. I also collaborated with the AI team on the Wajeeh AI Assistant, working on AI agents and workflow automation.
+[GitHub](https://github.com/razan-adil) | [LinkedIn](https://www.linkedin.com/in/razan-adil-79639b298) | [X](https://x.com/razanalghamdiii) | Jeddah, Saudi Arabia
 
-I'm active in GDG on Campus and the Artificial Intelligence Club, where I contribute to projects and technical content.
+---
 
-This GitHub brings together my projects, practical work, and learning.
+## Technical Competencies
 
-**Skills:** Python · Data Analysis · Machine Learning · Data Management · Data Cleaning · AI Agents · n8n
+- **Programming:** Python
+- **Data:** Data Analysis, Data Management, Data Cleaning
+- **AI & Machine Learning:** Machine Learning, Artificial Intelligence, AI Agents
+- **Automation:** n8n, Workflow Automation
 
-[LinkedIn](https://www.linkedin.com/in/razan-adil-79639b298) · [X](https://x.com/razanalghamdiii)
+---
+
+## Selected Projects
+
+| Project | Description | Areas |
+| --- | --- | --- |
+| **Wajeeh AI Assistant** | Collaborated with the AI team at Wadi Jeddah Innovation Hub on AI assistant development. | AI Agents, n8n, Workflow Automation |
+| **WJIH Master Database** | Independently developed and completed a centralized data management and workflow automation solution. | Data Management, Data Cleaning, Automation |
+| **Road Accident Severity Prediction** | Machine learning project for predicting road traffic accident severity using multiple classification models. | Python, Machine Learning, Classification |
+
+---
+
+## Education
+
+**Data Science — University of Jeddah**
+
+---
+
+## Community Involvement
+
+- **GDG on Campus:** Participation in technical student activities and collaborative projects.
+- **Artificial Intelligence Club:** Content creation and contribution to technical content development.
+
+---
+
+## Interests
+
+Data Analytics · Machine Learning · AI Agents · Workflow Automation
