@@ -41,7 +41,7 @@ During my internship:
 | **[DClean — Data Cleaning & Quality System](https://github.com/razan-adil/DClean)** | Contributed to a reusable Python-based data cleaning pipeline. Defined data structures and schemas, validated records, handled invalid data, and implemented record quarantine with clear rejection reasons. | Python, Data Quality, Validation, Error Handling |
 | **WJIH Master Database** | Independently developed a centralized solution for data management and workflow automation. | Data Management, Data Cleaning, Automation |
 | **Wajeeh AI Assistant** | Collaborated with the WJIH AI team on assistant development and workflow automation. | AI Agents, n8n |
-| **Road Accident Severity Prediction** | Developed a machine learning project to predict road traffic accident severity using multiple classification models. | Python, Machine Learning, Classification |
+| **[Road Accident Severity Prediction](https://github.com/razan-adil/road-accident-severity-ml)** | Developed a machine learning project to predict road traffic accident severity using multiple classification models. | Python, Machine Learning, Classification |
 
 ---
 
